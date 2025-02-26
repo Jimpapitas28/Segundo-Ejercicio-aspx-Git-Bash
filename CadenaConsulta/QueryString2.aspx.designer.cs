@@ -78,13 +78,13 @@ namespace CadenaConsulta
         protected global::System.Web.UI.WebControls.Label Label4;
 
         /// <summary>
-        /// Control strProduct.
+        /// Control lblProduct.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox strProduct;
+        protected global::System.Web.UI.WebControls.TextBox lblProduct;
 
         /// <summary>
         /// Control Label5.
@@ -96,13 +96,13 @@ namespace CadenaConsulta
         protected global::System.Web.UI.WebControls.Label Label5;
 
         /// <summary>
-        /// Control strDescription.
+        /// Control txtDescription.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox strDescription;
+        protected global::System.Web.UI.WebControls.TextBox txtDescription;
 
         /// <summary>
         /// Control Label6.
@@ -114,13 +114,13 @@ namespace CadenaConsulta
         protected global::System.Web.UI.WebControls.Label Label6;
 
         /// <summary>
-        /// Control strImage.
+        /// Control lblImage.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox strImage;
+        protected global::System.Web.UI.WebControls.TextBox lblImage;
 
         /// <summary>
         /// Control Label7.
@@ -132,13 +132,13 @@ namespace CadenaConsulta
         protected global::System.Web.UI.WebControls.Label Label7;
 
         /// <summary>
-        /// Control decPrice.
+        /// Control lblPrice.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox decPrice;
+        protected global::System.Web.UI.WebControls.TextBox lblPrice;
 
         /// <summary>
         /// Control Label8.
@@ -150,13 +150,13 @@ namespace CadenaConsulta
         protected global::System.Web.UI.WebControls.Label Label8;
 
         /// <summary>
-        /// Control bytNumberInStock.
+        /// Control txtNumberInStock.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox bytNumberInStock;
+        protected global::System.Web.UI.WebControls.TextBox txtNumberInStock;
 
         /// <summary>
         /// Control Label9.
@@ -168,13 +168,13 @@ namespace CadenaConsulta
         protected global::System.Web.UI.WebControls.Label Label9;
 
         /// <summary>
-        /// Control bytNumberOnOrder.
+        /// Control txtNumberOnOrder.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox bytNumberOnOrder;
+        protected global::System.Web.UI.WebControls.TextBox txtNumberOnOrder;
 
         /// <summary>
         /// Control Label10.
@@ -186,13 +186,13 @@ namespace CadenaConsulta
         protected global::System.Web.UI.WebControls.Label Label10;
 
         /// <summary>
-        /// Control bytReorderLevel.
+        /// Control txtReorderLevel.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox bytReorderLevel;
+        protected global::System.Web.UI.WebControls.TextBox txtReorderLevel;
 
         /// <summary>
         /// Control btnSave.

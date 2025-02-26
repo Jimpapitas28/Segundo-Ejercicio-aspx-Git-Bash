@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{F8BFC514-1FAF-4CBC-A715-9FFFA8C64FD5}|CadenaConsulta.csproj|solutionrelative:querystring2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8BFC514-1FAF-4CBC-A715-9FFFA8C64FD5}|CadenaConsulta.csproj|c:\\users\\marle\\onedrive\\desktop\\practica3\\git\\cadenaconsulta\\querystring2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{F8BFC514-1FAF-4CBC-A715-9FFFA8C64FD5}|CadenaConsulta.csproj|C:\\Users\\marle\\OneDrive\\Desktop\\Practica3\\git\\CadenaConsulta\\querystring.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F8BFC514-1FAF-4CBC-A715-9FFFA8C64FD5}|CadenaConsulta.csproj|solutionrelative:querystring.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BFC514-1FAF-4CBC-A715-9FFFA8C64FD5}|CadenaConsulta.csproj|C:\\Users\\marle\\OneDrive\\Desktop\\Practica3\\git\\CadenaConsulta\\querystring2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{F8BFC514-1FAF-4CBC-A715-9FFFA8C64FD5}|CadenaConsulta.csproj|solutionrelative:querystring2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8BFC514-1FAF-4CBC-A715-9FFFA8C64FD5}|CadenaConsulta.csproj|c:\\users\\marle\\onedrive\\desktop\\practica3\\git\\cadenaconsulta\\querystring.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8BFC514-1FAF-4CBC-A715-9FFFA8C64FD5}|CadenaConsulta.csproj|C:\\Users\\marle\\OneDrive\\Desktop\\Practica3\\git\\CadenaConsulta\\querystring.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8BFC514-1FAF-4CBC-A715-9FFFA8C64FD5}|CadenaConsulta.csproj|solutionrelative:querystring.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8BFC514-1FAF-4CBC-A715-9FFFA8C64FD5}|CadenaConsulta.csproj|c:\\users\\marle\\onedrive\\desktop\\practica3\\git\\cadenaconsulta\\querystring.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{F8BFC514-1FAF-4CBC-A715-9FFFA8C64FD5}|CadenaConsulta.csproj|solutionrelative:querystring.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,46 +36,46 @@
               "RelativeDocumentMoniker": "QueryString2.aspx.cs",
               "ToolTip": "C:\\Users\\marle\\OneDrive\\Desktop\\Practica3\\git\\CadenaConsulta\\QueryString2.aspx.cs",
               "RelativeToolTip": "QueryString2.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBwAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T05:34:53.387Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "QueryString2.aspx",
               "DocumentMoniker": "C:\\Users\\marle\\OneDrive\\Desktop\\Practica3\\git\\CadenaConsulta\\QueryString2.aspx",
               "RelativeDocumentMoniker": "QueryString2.aspx",
               "ToolTip": "C:\\Users\\marle\\OneDrive\\Desktop\\Practica3\\git\\CadenaConsulta\\QueryString2.aspx",
               "RelativeToolTip": "QueryString2.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-02-26T05:29:56.816Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "QueryString.aspx.cs",
               "DocumentMoniker": "C:\\Users\\marle\\OneDrive\\Desktop\\Practica3\\git\\CadenaConsulta\\QueryString.aspx.cs",
               "RelativeDocumentMoniker": "QueryString.aspx.cs",
               "ToolTip": "C:\\Users\\marle\\OneDrive\\Desktop\\Practica3\\git\\CadenaConsulta\\QueryString.aspx.cs",
               "RelativeToolTip": "QueryString.aspx.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBYAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA8wBYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T05:16:15.964Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "QueryString.aspx",
               "DocumentMoniker": "C:\\Users\\marle\\OneDrive\\Desktop\\Practica3\\git\\CadenaConsulta\\QueryString.aspx",
               "RelativeDocumentMoniker": "QueryString.aspx",
               "ToolTip": "C:\\Users\\marle\\OneDrive\\Desktop\\Practica3\\git\\CadenaConsulta\\QueryString.aspx",
               "RelativeToolTip": "QueryString.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-02-26T05:13:46.586Z",
               "EditorCaption": ""
